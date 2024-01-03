@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "core": "cpp",
+        "numericaldiff": "cpp",
+        "thread": "cpp",
+        "vector": "cpp",
+        "*.ipp": "cpp",
+        "array": "cpp",
+        "hash_map": "cpp",
+        "hash_set": "cpp",
+        "any": "cpp",
+        "string_view": "cpp",
+        "cmath": "cpp"
+    }
+}
